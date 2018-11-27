@@ -6,7 +6,6 @@
     * Motivation: why learn the shell?
         * The shell is the most general toolbox in the computing world
         * It's much, much more dominant than you think
-        * No, seriously: the shell unlocks doors that will never open otherwise
         * Concepts from the shell pop up everywhere in computing
         * The shell allows you to solve many common problems yourself without having to wait on an IT person
         * Analytics trends come and go, but Bash is forever.
