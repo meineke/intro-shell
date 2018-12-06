@@ -29,6 +29,7 @@ $ wget bit.ly/intro-shell-data
             * most data analysis environments and almost all high-performance clusters
             * embedded devices and the entire Internet of Things
             * Android and ChromeOS, which are Linux distributions
+        * Basically every operating system you interact with is Unix-based, except for Windows.
         * BSD itself is less common, but it forms the basis of Apple's entire line of OSes.
         * Today many people use Unix and Linux synonymously
     * Unix philosophy:
