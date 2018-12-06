@@ -1,5 +1,13 @@
 # intro-shell
 
+We'll roughly follow along with Software Carpentry's [Unix Shell lesson](http://swcarpentry.github.io/shell-novice/). 
+
+Download the data at: https://bit.ly/intro-shell-data You can do this right in the terminal:
+
+```bash
+$ wget bit.ly/intro-shell-data
+```
+
 # Bash outline
 
 1. Introduction
